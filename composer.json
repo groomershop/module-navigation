@@ -5,7 +5,7 @@
   "homepage": "https://groomershop.pl",
   "license": "OSL-3.0",
   "require": {
-    "creativestyle/magesuite-navigation": "^1.0.0"
+    "creativestyle/magesuite-navigation": "*"
   },
   "autoload": {
     "files": [
